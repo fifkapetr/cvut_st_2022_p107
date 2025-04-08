@@ -1,6 +1,6 @@
 package lab04;
 
-import lab031.Calculator;
+import lab03.Calculator;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
